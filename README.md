@@ -1,4 +1,4 @@
-# redshifteventparsing
+# Lambda function to parse Redshift Event Subscription Notifications from SNS
 
 This Lambda has 2 sections. 1. Variables and 2. Main body
 
